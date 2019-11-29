@@ -10,7 +10,7 @@ Para instalar o GIT use:
 	$ apt-get install git 
 ''''
 Para adicionar arquivos a seremm monitorados use:
-
+Flamengo Campeão Mundial
 ''''bash
 	$git add
 ''''
