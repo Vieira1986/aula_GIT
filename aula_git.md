@@ -19,3 +19,5 @@ Para criar um registro do projeto use:
 ''''bash
 $ git commit -m "comentario"
 ''''
+
+Diego Vieira Torres.
