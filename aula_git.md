@@ -21,3 +21,12 @@ $ git commit -m "comentario"
 ''''
 
 Diego Vieira Torres.
+
+Criar Conta no GitHub
+
+Criar repositorio no GitHub
+
+'''' bash
+$git push origin master
+
+''''
